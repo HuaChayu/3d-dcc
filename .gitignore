@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon\r
+
+# Xcode 用户态数据
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad
+*.xcscmblueprint
+
+# Xcode 编译产物
+build/
+DerivedData/
+*.o
+*.d
+*.dia
+*.swiftmodule
+*.swiftdoc
+*.abi.json
+
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# 本地个人配置
+*.local
+.env
